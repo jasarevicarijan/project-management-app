@@ -1,4 +1,4 @@
-# Project Maagement App With JS & Reaact
+# Project Maagement App With JS & React
 
 This is a repository for a Project Management App using JS and React.
 
